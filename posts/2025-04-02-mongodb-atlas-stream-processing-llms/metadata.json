@@ -1,0 +1,47 @@
+{
+  "title": "Adding Probabilistic Reasoning to MongoDB Atlas Stream Processing with LLMs",
+  "slug": "mongodb-atlas-stream-processing-llms",
+  "date": "2025-04-02",
+  "author": "Kenny Gorman",
+  "tags": [
+    "stream-processing",
+    "ai",
+    "large-language-models",
+    "mongodb",
+    "atlas",
+    "probabilistic-reasoning",
+    "openai",
+    "data-engineering"
+  ],
+  "categories": [
+    "Stream Processing",
+    "AI/ML",
+    "Database Engineering"
+  ],
+  "description": "Learn how to integrate LLMs with MongoDB Atlas Stream Processing to add probabilistic reasoning capabilities to your streaming data pipelines.",
+  "readingTime": "7 min",
+  "difficulty": "intermediate",
+  "technologies": [
+    "MongoDB Atlas",
+    "Stream Processing",
+    "OpenAI",
+    "Apache Kafka",
+    "JavaScript"
+  ],
+  "originalPublication": {
+    "platform": "TowardsDev/Medium",
+    "url": "https://towardsdev.com/adding-probabilistic-reasoning-to-mongodb-atlas-stream-processing-with-llms-f3381aae39e3",
+    "publishedDate": "2025-04-02"
+  },
+  "seo": {
+    "metaDescription": "Integrate LLMs with MongoDB Atlas Stream Processing to add AI-powered probabilistic reasoning to your real-time data pipelines. Complete tutorial with working code examples.",
+    "keywords": [
+      "mongodb atlas stream processing",
+      "llm stream processing",
+      "probabilistic reasoning",
+      "ai data pipelines",
+      "openai mongodb",
+      "stream processing ai"
+    ]
+  }
+}

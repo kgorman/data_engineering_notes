@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Post Title",
+  "description": "Post description",
+  "author": {
+    "@type": "Person",
+    "name": "Author Name",
+    "email": "author@example.com",
+    "url": "https://yoursite.com"
+  },
+  "datePublished": "YYYY-MM-DD",
+  "dateModified": "YYYY-MM-DD",
+  "keywords": ["keyword1", "keyword2"],
+  "articleSection": "Technology",
+  "difficulty": "intermediate",
+  "estimatedReadingTime": "PT5M",
+  "prerequisites": ["HTML", "CSS", "JavaScript"],
+  "codeRepository": "https://github.com/username/repo",
+  "programmingLanguage": ["JavaScript", "Python"],
+  "softwareApplication": ["React", "Node.js"]
+}

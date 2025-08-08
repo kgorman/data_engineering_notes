@@ -1,0 +1,20 @@
+{
+  "name": "blog-content",
+  "version": "1.0.0",
+  "description": "Technical blog content optimized for human and AI readability",
+  "scripts": {
+    "new": "bash scripts/new-post.sh",
+    "validate": "bash scripts/validate-post.sh",
+    "lint": "markdownlint posts/**/*.md",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "blog",
+    "technical-writing",
+    "markdown",
+    "ai-optimized"
+  ],
+  "devDependencies": {
+    "markdownlint": "^0.31.0"
+  }
+}
