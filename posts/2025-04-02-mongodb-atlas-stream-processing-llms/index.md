@@ -2,8 +2,8 @@
 
 *Originally published on [TowardsDev](https://towardsdev.com/adding-probabilistic-reasoning-to-mongodb-atlas-stream-processing-with-llms-f3381aae39e3) on April 2, 2025*
 
-![Heavy Equipment](assets/excavator-hero.jpg)
-*Photo by AnimGraph Lab on Unsplash*
+![Heavy Equipment - Yellow excavator on construction site](assets/excavator-hero.jpg)
+*Photo by [AnimGraph Lab](https://unsplash.com/@dimitryzub) on [Unsplash](https://unsplash.com/photos/yellow-excavator-on-gray-concrete-road-during-daytime-jibUsRaauLY)*
 
 AI is transforming every layer of computing — from infrastructure to user interfaces — and streaming data systems are no exception. So, you might wonder, what about Atlas Stream Processing? Let me show you.
 
