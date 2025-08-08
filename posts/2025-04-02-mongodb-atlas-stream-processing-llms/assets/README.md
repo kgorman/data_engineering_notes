@@ -27,5 +27,5 @@ To add images to this post:
 
 ## Original Sources
 
-- Hero image: [AnimGraph Lab on Unsplash](https://unsplash.com/photos/yellow-excavator-on-gray-concrete-road-during-daytime-jibUsRaauLY)
+- Hero image: [AnimGraph Lab on Unsplash](https://unsplash.com/photos/yellow-excavator-on-gray-concrete-road-during-daytime-jibUsRaauLY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - Connection registry screenshot: Created from MongoDB Atlas UI
