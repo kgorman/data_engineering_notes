@@ -52,6 +52,9 @@ Kafka Topic → Stream Processor → LLM API Call → Data Enrichment → MongoD
 
 ## Example: Equipment Maintenance App using LLM and Atlas Stream Processing
 
+![Equipment Maintenance Data Flow](assets/equipment-maintenance-flow.webp)
+*Data flow diagram showing how maintenance reports flow through Kafka, get enriched by LLM analysis, and are stored in MongoDB*
+
 Let's dive into the code and build a processor. Our use case will be to process maintenance records for heavy equipment. Imagine a technician in the field servicing a large piece of heavy equipment like an excavator.
 
 The technicians scribble in information about the problem, and that data gets transmitted through Apache Kafka and lands in the MongoDB database. Now, what if we want to enrich that data to process that natural language as it flows to give some potential problems and fixes, and add a simple time estimate for the work using AI? Enter the LLM.
@@ -134,7 +137,7 @@ There are two main steps to achieving this — one is to create the connection r
 
 You can use the Atlas CLI/API or just use the Atlas UI by clicking on **Stream Processing → [instance] → Connections** and add a new connection.
 
-![Connection Registry](assets/connection-registry.png)
+![Connection Registry](assets/connection-registry.webp)
 *Creating an HTTPS connection registry entry for OpenAI completions API*
 
 ### Step 2: The Processor

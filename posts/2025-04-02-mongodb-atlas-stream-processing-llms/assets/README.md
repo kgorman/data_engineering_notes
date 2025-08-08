@@ -4,9 +4,9 @@ This directory contains images and other assets for the MongoDB Atlas Stream Pro
 
 ## Images
 
-- `excavator-hero.jpg` - Hero image for the article (heavy equipment photo from Unsplash)
-- `connection-registry.png` - Screenshot of Atlas Stream Processing connection registry *(placeholder)*
-- `data-flow-diagram.png` - Diagram showing the data flow through the pipeline *(placeholder)*
+- `excavator-hero.jpg` - Hero image for the article (heavy equipment photo from Unsplash) ✅
+- `connection-registry.png` - Screenshot of Atlas Stream Processing connection registry *(needed - placeholder removed from article)*
+- `data-flow-diagram.png` - Diagram showing the data flow through the pipeline *(future enhancement)*
 
 ## Adding Images
 
